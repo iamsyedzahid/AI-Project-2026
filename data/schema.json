@@ -1,0 +1,11 @@
+{
+  "prescription_id": "string",
+  "raw_text": "string",
+  "drug": "string",
+  "dosage": 0,
+  "dosage_unit": "mg",
+  "frequency": "string",
+  "confidence": 0.0,
+  "status": "pending | safe | underdose | overdose | unknown",
+  "timestamp": "ISO8601"
+}

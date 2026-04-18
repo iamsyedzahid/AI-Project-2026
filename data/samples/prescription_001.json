@@ -1,0 +1,11 @@
+{
+  "prescription_id": "RX-001",
+  "raw_text": "Amoxicillin 500mg three times daily for 7 days",
+  "drug": "amoxicillin",
+  "dosage": 500,
+  "dosage_unit": "mg",
+  "frequency": "3x daily",
+  "confidence": 0.95,
+  "status": "pending",
+  "timestamp": "2026-04-18T10:00:00Z"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "amoxicillin",
+    "aliases": ["amoxil", "trimox"],
+    "min_dose_mg": 250,
+    "max_dose_mg": 500,
+    "unit": "mg",
+    "frequency": "3x daily"
+  },
+  {
+    "name": "metformin",
+    "aliases": ["glucophage"],
+    "min_dose_mg": 500,
+    "max_dose_mg": 2000,
+    "unit": "mg",
+    "frequency": "2x daily"
+  },
+  {
+    "name": "paracetamol",
+    "aliases": ["acetaminophen", "panadol"],
+    "min_dose_mg": 325,
+    "max_dose_mg": 1000,
+    "unit": "mg",
+    "frequency": "4x daily"
+  }
+]
